@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="th">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>รับของขวัญจากทรูมันนี่</title>
+
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 20px;
+      background: #fffdfc;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .card {
+      border-radius: 16px;
+      background: #fff4ee;
+      padding: 20px;
+      margin: 20px auto;
+      width: 90%;
+      max-width: 400px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
